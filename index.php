@@ -75,17 +75,22 @@
     </div>
   </section>
 
-  <!-- <div class="p-6 bg-white shadow rounded-lg">
+  <div class="p-6 bg-white shadow rounded-lg">
 	<i class="fas fa-chart-line text-4xl text-blue-600 mb-4"></i>
   <h3 class="text-xl font-bold mb-2">Escalable</h3>
   <p>Preparado para crecer junto a las necesidades de tu negocio.</p>
-  </div> -->
+  </div>
 
   <!-- NUEVA Característica -->
   <div class="p-6 bg-white shadow rounded-lg">
     <i class="fas fa-headset text-4xl text-blue-600 mb-4"></i>
     <h3 class="text-xl font-bold mb-2">Soporte</h3>
     <p>Asistencia técnica dedicada para cualquier duda.</p>
+  </div>
+  <div class="p-6 bg-white shadow rounded-lg">
+	  <i class="fas fa-chart-line text-4xl text-blue-600 mb-4"></i>
+    <h3 class="text-xl font-bold mb-2">Escalable</h3>
+    <p>Preparado para crecer junto a las necesidades de tu negocio.</p>
   </div>
 
   <footer class="bg-gray-800 text-white py-6">
