@@ -11,7 +11,7 @@
 
   <header class="bg-white shadow">
     <div class="container mx-auto flex justify-between items-center p-4">
-      <h1 class="text-2xl font-bold text-blue-600">Mi Pagina Web</h1>
+      <h1 class="text-2xl font-bold text-blue-600">MiSitio</h1>
       <nav class="space-x-6">
         <a href="#" class="text-gray-700 hover:text-blue-600">Inicio</a>
         <a href="#" class="text-gray-700 hover:text-blue-600">Servicios</a>
@@ -74,6 +74,12 @@
       </div>
     </div>
   </section>
+
+  <!-- <div class="p-6 bg-white shadow rounded-lg">
+	<i class="fas fa-chart-line text-4xl text-blue-600 mb-4"></i>
+  <h3 class="text-xl font-bold mb-2">Escalable</h3>
+  <p>Preparado para crecer junto a las necesidades de tu negocio.</p>
+</div> -->
 
   <footer class="bg-gray-800 text-white py-6">
     <div class="container mx-auto flex justify-center space-x-6">
